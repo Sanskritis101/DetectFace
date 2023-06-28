@@ -1,5 +1,5 @@
 # DetectFace
-DetectFace: a real time face detection custom YOLOv7-model trained on Google Colab virtual CUDA-support.
+DetectFace: a real time face detection custom YOLOv7-model trained on Google Colab virtual GPU-support.
 
 ### Technologies/Concepts Involved:
 - Python
